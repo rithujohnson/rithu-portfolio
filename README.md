@@ -17,7 +17,7 @@ Personal portfolio website built to showcase my projects, experience, and skills
 
 ### Setup
 ```bash
-git clone https://github.com/<your-username>/rithu-portfolio.git
+git clone https://github.com/rithujohnson/rithu-portfolio.git
 cd rithu-portfolio
 npm install
 npm run dev
